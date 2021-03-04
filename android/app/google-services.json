@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "184093766284",
+    "project_id": "nebible-2cd90",
+    "storage_bucket": "nebible-2cd90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184093766284:android:55fc19218948e2f27341a9",
+        "android_client_info": {
+          "package_name": "com.subashkhatri.nebible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184093766284-lq8coqafg36j31gdksrjbig0bgq7k1lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subashkhatri.nebible",
+            "certificate_hash": "b74eb3143fd095aa4784c432d4dc7feac16a4e19"
+          }
+        },
+        {
+          "client_id": "184093766284-4aoifi3te297okae18u58jcq5jodcg4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwKUjh3vJGvi20ME5ZyTomeI2WPAEcZYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184093766284-4aoifi3te297okae18u58jcq5jodcg4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
